@@ -1,0 +1,16 @@
+C:\C#\DotNetDebugging\bin\Release\net5.0\DotNetDebugging.exe
+C:\C#\DotNetDebugging\bin\Release\net5.0\DotNetDebugging.deps.json
+C:\C#\DotNetDebugging\bin\Release\net5.0\DotNetDebugging.runtimeconfig.json
+C:\C#\DotNetDebugging\bin\Release\net5.0\DotNetDebugging.runtimeconfig.dev.json
+C:\C#\DotNetDebugging\bin\Release\net5.0\DotNetDebugging.dll
+C:\C#\DotNetDebugging\bin\Release\net5.0\ref\DotNetDebugging.dll
+C:\C#\DotNetDebugging\bin\Release\net5.0\DotNetDebugging.pdb
+C:\C#\DotNetDebugging\obj\Release\net5.0\DotNetDebugging.csprojAssemblyReference.cache
+C:\C#\DotNetDebugging\obj\Release\net5.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\DotNetDebugging\obj\Release\net5.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\C#\DotNetDebugging\obj\Release\net5.0\DotNetDebugging.AssemblyInfo.cs
+C:\C#\DotNetDebugging\obj\Release\net5.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\C#\DotNetDebugging\obj\Release\net5.0\DotNetDebugging.dll
+C:\C#\DotNetDebugging\obj\Release\net5.0\ref\DotNetDebugging.dll
+C:\C#\DotNetDebugging\obj\Release\net5.0\DotNetDebugging.pdb
+C:\C#\DotNetDebugging\obj\Release\net5.0\DotNetDebugging.genruntimeconfig.cache
